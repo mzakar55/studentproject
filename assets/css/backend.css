@@ -1,0 +1,50 @@
+/* Start Main Rules*/
+
+body{
+	background-color: #F4F4F4;
+}
+
+/* End Main Rules*/
+
+
+
+/* Start login form */
+.login {
+
+margin: 100px auto ;
+width: 300px;
+}
+.login .h4{
+	color:#888;
+}
+
+.login .input{
+
+	margin-bottom: 10px;
+
+}
+
+.login .form-control{
+	background-color: #E5E5E5;
+}
+.login .btn{
+background-color: #008dde;
+
+
+}
+
+
+/* End login form */
+/*start member page*/
+.h1{
+	font-size: 55px;
+	margin: 40px;
+	font-weight: bold;
+	color: #666;
+}
+.main-table tr:first-child td{
+  background-color: #333;
+  color: #fff;
+
+}
+/*end member page*/
